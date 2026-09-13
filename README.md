@@ -106,7 +106,7 @@ This schematic represents the complete hardware design of a **Bluetooth‑contro
 ![PCB Layout](PCB_Top_Layer%20(Img_Pdf_2D_3D)/Top%20layer.png)
 
 ## 🖼️ PCB Layout Bottom Layer
-![PCB Layout](PCB_Bottom_Layer%20(Img_Pdf_2D_3D)/Bottom%20layer.png)
+![PCB Layout](PCB_Bottom_layer%20(Img_Pdf_2D_3D)/Bottom%20layer.png)
 
 ## 🖼️ 3D Top View 
 ![3D PCB](PCB_Top_Layer%20(Img_Pdf_2D_3D)/top%20view_3d.png)
