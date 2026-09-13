@@ -98,4 +98,6 @@ This schematic represents the complete hardware design of a **Bluetooth‑contro
 
 ---
 
-
+## 🖼️ Visuals
+### Schematic
+![Schematic](Schematic (Img_Pdf)\Schematic_bluetooth-controlled-toy-car.png)
