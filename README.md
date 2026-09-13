@@ -101,3 +101,15 @@ This schematic represents the complete hardware design of a **Bluetooth‑contro
 ## 🖼️ Visuals
 ### Schematic
 ![Schematic](Schematic%20(Img_Pdf)/Schematic_bluetooth-controlled-toy-car.png)
+
+## 🖼️ PCB Layout Top Layer
+![PCB Layout](PCB_Top_Layer%20(Img_Pdf_2D_3D)/Top%20layer.png)
+
+## 🖼️ PCB Layout Bottom Layer
+![PCB Layout](PCB_Bottom_Layer%20(Img_Pdf_2D_3D)/Bottom%20layer.png)
+
+## 🖼️ 3D Top View 
+![3D PCB](PCB_Top_Layer%20(Img_Pdf_2D_3D)/top%20view_3d.png)
+
+## 🖼️ 3D Bottom View 
+![3D PCB](PCB_Bottom_Layer%20(Img_Pdf_2D_3D)/bottom%20view_3d.png)
