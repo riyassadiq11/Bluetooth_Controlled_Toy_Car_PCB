@@ -88,13 +88,16 @@ This schematic represents the complete hardware design of a **Bluetooth‑contro
 ---
 
 ## 🛠 Skills Highlight
-- ✅ Schematic capture in EasyEDA  
-- ✅ PCB routing (2‑layer board)  
+- ✅ Schematic capture & datasheet interpretation
+- ✅ LTspice simulation for MOSFET switching  
+- ✅ PCB layout & routing optimization (2‑layer board)  
 - ✅ Power supply & battery protection design  
 - ✅ Motor driver integration (DRV8210)  
 - ✅ Custom footprint creation (motor pad, connector, battery pad)  
 - ✅ Gerber generation for manufacturing  
 - ✅ 3D visualization of PCB
+- ✅ DRC checking for error‑free design
+- ✅ Ground stitching & copper pour techniques
 
 ---
 
